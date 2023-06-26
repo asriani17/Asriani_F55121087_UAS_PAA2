@@ -1,6 +1,6 @@
 **UAS PAA2**
 
-**Asriani_F55121075**
+**Asriani_F55121087**
 
 **Hasil analysis algorithm**
 
